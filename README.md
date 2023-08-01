@@ -12,7 +12,7 @@ Real-time Progress Tracking: Monitor your progress in real-time.
 Responsive Design: Accessible on all devices, including desktop, tablet, and mobile.
 
 Project Link
-Explore Study Notion: https://studynotion-edtech-project.vercel.app/
+Explore Study Notion: 
 
 Tech Stack
 Frontend: React
